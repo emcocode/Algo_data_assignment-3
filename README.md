@@ -1,6 +1,4 @@
-Hello!
-
-The files in this ZIP are the code, the report and visalization classes (python).
+# Assignment 3 in Algorithms and datastructures
 
 For problem 2, the folder Vehicles is for the different type of vehicles.
 
