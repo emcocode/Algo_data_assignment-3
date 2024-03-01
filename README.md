@@ -2,7 +2,7 @@
 
 For problem 2, the folder Vehicles is for the different type of vehicles.
 
-For problem 5, the cut off-depth, array size and iterations can be changed in Problem 5 class. To change swap method between heap/insert, 
+For problem 5, the cut off-depth, array size and iterations can be changed in Problem 5 class. To change swap method between heap/insert,
 comment out accordingly in Quicksort.java, in the private quicksort() method.
 
 To run the code, make sure the files are in the same folder and run them through your IDE. Also make sure to open the entire folder in the IDE to access the other classes (can be done using the command "code ." in git bash, while located in this folder). I have been using VSCode for the development.
